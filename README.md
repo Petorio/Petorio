@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Petorio
-- 👀 I’m interested in software engineering and artificial intelligence
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently attending University of California - Irvine for a Computer Science degree
 - 📫 Contact me through my email: sonp1@uci.edu
 
