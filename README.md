@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Petorio
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently attending University of California - Irvine for a Computer Science degree
+- 👀 I’m interested in software engineering, specifically full-stack development
+- 🌱 I’m recently graduated from the University of California - Irvine with a B.S in Computer Science
 - 📫 Contact me through my email: sonp1@uci.edu
 
 <!---
